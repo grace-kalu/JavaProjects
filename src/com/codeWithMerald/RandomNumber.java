@@ -10,7 +10,7 @@ import java.util.Scanner;
 
 public class RandomNumber {
 
-    static final int SIZE = 2;
+    static final int SIZE = 53;
 
     public static void main(String[] args) {
 
